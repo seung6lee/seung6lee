@@ -1,4 +1,5 @@
-![Group 1](https://github.com/user-attachments/assets/9e33af3c-c23a-40ca-b913-5080eb4d934f)
+![critical](https://github.com/user-attachments/assets/9bf8779d-b4f8-4833-b809-bd911015f815)
+
 <div align=center>
   <a href="https://solved.ac/profile/hockey89"><img src="https://img.shields.io/badge/solved.ac-Gold%20V-FDDC5C" alt=""></a>
   <a href="https://www.instagram.com/seung6lee"><img src="https://img.shields.io/badge/Instagram-white?logo=instagram" alt=""></a>
