@@ -18,3 +18,12 @@ But, my favorite is physics because as I learn it more, I can understand and exp
   <img src="https://github-readme-stats.vercel.app/api?username=seung6lee" alt="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" alt="">
 </div>
+
+<script src="https://utteranc.es/client.js"
+        repo="seung6lee/seung6lee"
+        issue-term="pathname"
+        label="comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
