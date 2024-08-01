@@ -8,13 +8,13 @@
 <br><br>
 Hello 👋,<br>
 <br>
-I'm a 10th-grade student who likes coding and all kinds of electronics.<br>
-But, my favocite is physics becuase as I learn it more, I am able to understand and explain phenomena in the universe🪐
+I'm a 10th-grade student from Korea who likes coding and all kinds of electronics.<br>
+But, my favorite is physics because as I learn it more, I can understand and explain phenomena in the universe🪐
 
 <br><br>
 
 # My stats 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=seung6lee" alt="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung6lee&layout=compact" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" alt="">
 </div>
