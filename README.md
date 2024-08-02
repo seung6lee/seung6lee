@@ -1,4 +1,4 @@
-![critical](https://github.com/user-attachments/assets/9bf8779d-b4f8-4833-b809-bd911015f815)
+<img src="https://github.com/user-attachments/assets/4217ad61-f3c5-4370-9486-aa0ac349207e" />
 
 <div align=center>
   <a href="https://solved.ac/profile/hockey89"><img src="https://img.shields.io/badge/solved.ac-Gold%20V-FDDC5C" alt=""></a>
