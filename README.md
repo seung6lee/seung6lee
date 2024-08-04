@@ -4,7 +4,7 @@
   <a href="https://solved.ac/profile/hockey89"><img src="https://img.shields.io/badge/solved.ac-Gold%20V-FDDC5C" alt=""></a>
   <a href="https://www.instagram.com/seung6lee"><img src="https://img.shields.io/badge/Instagram-white?logo=instagram" alt=""></a>
   <a href="https://dev.to/seung6lee"><img src="https://img.shields.io/badge/Dev.to-black?logo=devdotto" alt=""></a>
-  <a href="mailto:acountforsignupandin@gmail.com"><img src="https://img.shields.io/badge/Mail-FFC6C6?logo=gmail" alt=""></a>
+  <a href="mailto:sj@seung6lee.com"><img src="https://img.shields.io/badge/Mail-FFC6C6?logo=gmail" alt=""></a>
 </div>
 <div align='center'>
 <img src='https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=%23ffc531&color=%23376994' />
