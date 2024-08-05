@@ -11,6 +11,7 @@
 <img src='https://img.shields.io/badge/Javascript-Javascript?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23f7e018' />
 <img src='https://img.shields.io/badge/React-React?style=for-the-badge&logo=react&logoColor=%237ddfff&color=%23000000' />
 <img src='https://img.shields.io/badge/nodejs-nodejs?style=for-the-badge&logo=nodedotjs&logoColor=%23333333&color=%23679f63' />
+<img src='https://img.shields.io/badge/Svelte-Svelte?style=for-the-badge&logo=svelte&logoColor=%23ff3e00&color=%23F6F740' />
 <img src='https://img.shields.io/badge/java-java?style=for-the-badge&color=%235482a1' />
 </div>
 <br><br>
