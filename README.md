@@ -31,3 +31,5 @@ But, my favorite is physics because as I learn it more, I can understand and exp
 ## My stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=seung6lee&show_icons=true&hide_border=true" alt=""> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung6lee&layout=compact&hide_border=true" alt=""> |
 | ------------- | ------------- |
+
+_I don't like HTML; I have no idea why this is my #1 lol_
